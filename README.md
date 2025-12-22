@@ -92,6 +92,6 @@ This behavior is expected and demonstrates the importance of proper evaluation o
 How to run :
 
 pip install -r requirements.txt
-python src/train_linear_reg.py
-python src/svr.py
+python train_linear_reg.py
+python svr.py
 
