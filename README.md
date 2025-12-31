@@ -22,5 +22,5 @@ How to run :
 
 pip install -r requirements.txt
 python train_linear_reg.py
-python svr.py
+python svm.py
 
